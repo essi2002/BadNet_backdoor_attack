@@ -1,0 +1,4 @@
+clean dataset accuracy = 88.71 %
+trigger dataset accuracy = 99.91%
+epochs = 100
+learning_rate = 0.001
